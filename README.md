@@ -1,2 +1,8 @@
 # under_pi
-digression on Quadrature of the circle 
+
+## A gganimate test around quadrature of the circle
+
+![Quadrature of the circle](under_pi.gif)
+
+
+
